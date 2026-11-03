@@ -1,4 +1,6 @@
 # Claude Code with Amazon Bedrock on Windows
+<img width="963" height="459" alt="image" src="https://github.com/user-attachments/assets/6d767949-feb8-4f6b-84c0-e8cfdb36c86c" />
+
 
 A beginner-friendly PowerShell guide to using Claude Code with Amazon Bedrock.
 
