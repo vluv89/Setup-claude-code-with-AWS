@@ -1,0 +1,24 @@
+# AWS credentials and local configuration
+.aws/
+.env
+.env.*
+*.pem
+*.key
+
+# Claude Code local settings
+.claude/
+.claude.json
+settings.local.json
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Build output
+build/
+dist/
+*.zip
